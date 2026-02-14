@@ -1,0 +1,20 @@
+LICENZA E NOTE DI UTILIZZO
+==========================
+
+Regole principali:
+1. Puoi usare, modificare e condividere il codice liberamente.
+2. Mantieni i crediti originali nel progetto quando ridistribuisci.
+3. Gli autori non garantiscono l'assenza totale di errori o incompatibilita su tutti i PC.
+
+
+Asset previsti:
+- immagine mostro: img/ck.jpeg
+- audio menu: sounds/limited.mp3 (fallback automatico: sounds/random.mp3)
+- audio gameplay: sounds/sub.mp3
+- audio heartbeat: sounds/hrtb.mp3
+- pygame (pip install pygame)
+- (tutte le immagini e suoni vengno già incluse con il gioco)
+Ultimo aggiornamento: 14/02/2026
+
+
+PS: SCEMO CHI LEGGE
